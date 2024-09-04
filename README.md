@@ -1,5 +1,5 @@
-Bem vindo ao meu perfil 💜💜
+Bem vindo(a)
 
 •Me chamo Gabriela Papalia
 
-•Estudo no Alura 
+•Estudo no Alura
