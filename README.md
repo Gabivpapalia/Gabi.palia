@@ -1,5 +1,12 @@
-Bem vindo(a)
+Hey, Bem vindo(a)
 
 •Me chamo Gabriela Papalia
 
-•Estudo no Alura
+•Estou aprendendo programação no Java Script
+
+•Estudo na
+Alura
+
+•Estudo inglês na Wizard 
+
+
