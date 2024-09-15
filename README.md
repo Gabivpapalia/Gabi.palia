@@ -9,7 +9,7 @@ Alura
 
 •Estudo inglês na Wizard 
 
-*Você pode entrar em contato comigo*
+**Você pode entrar em contato comigo**
 Gabriela.papalia@gmail.com
 
 
